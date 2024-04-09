@@ -29,7 +29,7 @@ bot_token = ("6821384034:AAHGkgDF5AvKnpmOZ4idDzWMLnmnAgqtUMw")
 # Create a new TelegramClient for signing in
 client = TelegramClient(session_file, api_id, api_hash).start(bot_token=bot_token)
 
-support_id = (Inbo_x)
+support_id = ()
 stage = ''
 
 vcnl = "-1002002769483"
