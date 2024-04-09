@@ -24,15 +24,15 @@ def read_json_file(filename):
 # Path to the session file
 session_file = 'bot'
 
-bot_token = ("7162329262:AAEDJ0giaq5-B4TNH1qFBO2aB0KWHRfBNjU")
+bot_token = ("6821384034:AAHGkgDF5AvKnpmOZ4idDzWMLnmnAgqtUMw")
 
 # Create a new TelegramClient for signing in
 client = TelegramClient(session_file, api_id, api_hash).start(bot_token=bot_token)
 
-support_id = ()
+support_id = (@Inbo_x)
 stage = ''
 
-vcnl = "-1002113695404"
+vcnl = "-1002002769483"
 private_channel_id = "vcnl"
 cnl = "Bot_pay_out_leader"
 public_channel_username = (cnl)
